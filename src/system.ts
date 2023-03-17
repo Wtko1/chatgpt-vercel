@@ -7,9 +7,7 @@ export const setting = {
   systemRule: ""
 }
 
-export const message = `- 由 [OpenAI API (gpt-3.5-turbo)](https://platform.openai.com/docs/guides/chat) 和 [Vercel](http://vercel.com/) 提供支持。
-
-- 由 [@wtko1](https://github.com/wtko1) 基于 [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) 开发，查看 [源码](https://github.com/wtko1/chatgpt-vercel)，欢迎自部署。
+export const message = `- 由 [@wtko1](https://github.com/wtko1) 基于 [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) 开发，查看 [源码](https://github.com/wtko1/chatgpt-vercel)，欢迎自部署。
 
 - 该网站仅作为演示，不提供长期服务，网站密码为 \`何文涛\`，在左下角小齿轮填写密码，请勿滥用。
 
